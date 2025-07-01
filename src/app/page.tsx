@@ -217,7 +217,7 @@ export default function Home() {
               </div>
               <CardTitle className="text-blue-700">Be Amazing</CardTitle>
               <CardDescription>
-                &quot;April says: You&apos;re already amazing, but you can be more amazing. It&apos;s science!&quot;
+                &quot; Some of these bitches be doing way too much&quot;
               </CardDescription>
             </CardHeader>
           </Card>
@@ -362,7 +362,7 @@ export default function Home() {
             <h3 className="text-xl font-bold">Listen to April</h3>
           </div>
           <p className="text-slate-400 mb-6">
-            Built with ❤️ because April said so! React, TypeScript, and shadcn/ui
+            Built with ❤️ because April said so!
           </p>
           <div className="flex justify-center space-x-6 text-slate-400">
             <a href="#" className="hover:text-pink-400 transition-colors">April&apos;s Rules</a>
