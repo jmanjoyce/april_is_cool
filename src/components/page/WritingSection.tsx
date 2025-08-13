@@ -17,10 +17,10 @@ export function WritingSection() {
                     <p className="text-gray-600 mb-4 leading-relaxed">
                       It&apos;s just what you do.
                     </p>
-                    <Badge variant="outline" className="border-gray-300 text-gray-600">Capturing my heart</Badge>
+                    <Badge variant="outline" className="border-gray-300 text-gray-600">hi</Badge>
                   </div>
                   <div className="text-right text-sm text-gray-500">
-                    <p>It&apos;s what you&apos;ve done</p>
+                    <p>more details</p>
                   </div>
                 </div>
               </CardContent>
@@ -30,11 +30,11 @@ export function WritingSection() {
               <CardContent className="p-0">
                 <div className="grid md:grid-cols-3 gap-8 items-start">
                   <div className="md:col-span-2">
-                    <h3 className="text-2xl font-light mb-4">&quot;Echoes of Home&quot;</h3>
+                    <h3 className="text-2xl font-light mb-4">Capturing my heart</h3>
                     <p className="text-gray-600 mb-4 leading-relaxed">
-                      A collection exploring displacement, belonging, and the search for identity.
+                     it&apos;s what you&apos;ve done
                     </p>
-                    <Badge variant="outline" className="border-gray-300 text-gray-600">Poetry Collection</Badge>
+                    <Badge variant="outline" className="border-gray-300 text-gray-600">coolcool</Badge>
                   </div>
                   <div className="text-right text-sm text-gray-500">
                     <p>2023</p>
